@@ -2,6 +2,9 @@
 Universal encoder/decoder for ID values returned from the Shopify Storefront
 GraphQL API. **400 bytes gzipped.**
 
+### ✅ Added Support for [Non-encoded object IDs](https://shopify.dev/docs/api/release-notes/2022-04#non-encoded-object-ids-in-the-graphql-storefront-api) in the GraphQL Storefront API 
+
+
 ## Install
 ```bash
 npm i shopify-gid --save
